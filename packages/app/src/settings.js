@@ -256,7 +256,11 @@ window.spinnakerSettings = {
         region: 'cn-north-1',
       },
     },
-    kubernetes: {},
+    kubernetes: {
+      defaults: {
+        account: 'my-cloudrun-account',
+      },
+    },
 
     oracle: {
       defaults: {

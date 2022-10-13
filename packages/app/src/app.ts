@@ -24,7 +24,6 @@ module('netflix.spinnaker', [
   AZURE_MODULE,
   GOOGLE_MODULE,
   ECS_MODULE,
-  CLOUDRUN_MODULE,
   DOCKER_MODULE,
   ORACLE_MODULE,
   APPENGINE_MODULE,
@@ -32,4 +31,5 @@ module('netflix.spinnaker', [
   KUBERNETES_MODULE,
   KAYENTA_MODULE,
   TITUS_MODULE,
+  CLOUDRUN_MODULE,
 ]);

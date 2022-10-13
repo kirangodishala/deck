@@ -87,6 +87,7 @@
     "packages/appengine",
     "packages/azure",
     "packages/cloudfoundry",
+    "packages/cloudrun",
     "packages/core",
     "packages/dcos",
     "packages/docker",
